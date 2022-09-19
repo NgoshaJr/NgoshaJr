@@ -5,7 +5,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
 [![UTK Badge](https://img.shields.io/badge/TAFIRI-ICT-orange)](https://tafiri.go.tz/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/ngosha)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ngosha)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mussa-ngosha-98260013b)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NgoshaJr.NgoshaJr)
