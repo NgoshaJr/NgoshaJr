@@ -37,6 +37,6 @@ I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](ht
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NgoshaJr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgoshaJr&langs_count=3&hide=javascript,go,html,css,tex)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgoshaJr&hide_langs_below=10) -->
