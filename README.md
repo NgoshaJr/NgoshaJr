@@ -6,7 +6,7 @@
 [![UTK Badge](https://img.shields.io/badge/TAFIRI-ICT-orange)](https://tafiri.go.tz/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/ngosha)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mussa-ngosha-98260013b)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1E3kU2pUGE8qkElgIE5nzTtW0OuU4AFc8-Tw4xuP3RXU)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NgoshaJr.NgoshaJr)
 
