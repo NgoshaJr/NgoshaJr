@@ -4,11 +4,11 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
 [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/Ngosha)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NgoshaJr.NgoshaJr)
 
 I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](https://tafiri.go.tz/), Ministry of Livestock and Fisheries. My research interests include earth observation sciences. More specifically, I am interested in applying artificial intelligence and machine learning to develop predictive and forecasting models. I am a fan of using cloud computing technology (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, especially in the ocean, land, and atmosphere. I frequently use the Python and R programming languages to access and analyze satellite (Sentinels, landsat, and MODIS) and in-situ data (CDT, buoys, and Algo floats). I am a strong advocate of open science and reproducible research. More information about my research can be found on [personal website](https://wetls.io/) and [research blog](https://blog.gish/)
 
