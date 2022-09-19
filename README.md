@@ -14,7 +14,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](ht
 
 ---
 
-### Open-source Projects
+### Research Projects
 
 <!--- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
