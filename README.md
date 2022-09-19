@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/NgoshaJr?style=social)](https://github.com/NgoshaJr?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/ngoshaJr3?style=social)](https://twitter.com/ngoshaJr3)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://)
 [![UTK Badge](https://img.shields.io/badge/TAFIRI-ICT-orange)](https://tafiri.go.tz/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/ngosha)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mussa-ngosha-98260013b)
