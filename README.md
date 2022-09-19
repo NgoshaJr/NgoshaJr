@@ -27,7 +27,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](ht
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [Working with Oceanographic data from NDBC and Algo Float Data](https://blog)
+- [Working with Oceanographic Data from NDBC and Algo Floats](https://blog)
 
 <!-- HASHNODE:END -->
 
