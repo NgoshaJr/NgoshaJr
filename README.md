@@ -17,7 +17,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](ht
 
 ### Research Projects
 
-- [Using Unmanned Arial Vehicle (UAV) imagery to develop a Deep Learning Model for Seagrass Detection from Multispectral sensors](https://blog)
+- [A Faster R-CNN Model with Unmanned Arial Vehicle (UAV) Imagery for the Detection of Seagrass from Multispectral Sensors](https://blog)
 - [Using Google Earth Engine for the Classification of Mangrove Species from Sentinel-2a: A machine learning approach](https://blog)
 <!--- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
