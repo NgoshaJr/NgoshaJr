@@ -16,7 +16,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute (TAFIRI)](ht
 ---
 
 ### Research Projects
-
+- [Using Google Earth Engine for the Classification of Mangrove Species from Sentinel-2a: A machine learning approach](https://blog)
 <!--- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
 - **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
