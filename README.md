@@ -30,7 +30,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute](https://taf
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [Spatial and Temporal Variability of Sea Surface temperature in the western Indion Ocean Waters, Tanzania](https://github.com/NgoshaJr/Ocean/blob/main/sst-wio.ipynb)
+- [Spatial and Temporal Variability of Sea Surface temperature in the western Indion Ocean Waters, Tanzania](https://github.com/NgoshaJr/Ocean/blob/main/Satellite/sst-wio.ipynb)
 - [Working with Oceanographic Data from the National Data Buoy Centre (NDBC)](https://github.com/NgoshaJr/Ocean/blob/main/NDBC_data.ipynb)
 - [Working with Oceanographic Data Argo Drifters](https://blog)
 
