@@ -17,7 +17,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute](https://taf
 
 ### Research Projects
 
-- [Using R-CNN Based Deep Learning to Detect Seagrass from Unnamed Arial Vehicles (UAVs) imagery](https://blog)
+- [Deep Learning Approaches for Seagrass Detection from Unnamed Arial Vehicles (UAVs) imagery](https://blog)
 - [Using Google Earth Engine (GEE) for the Classification of Mangrove Species from Sentinel-2a in the Rufiji Delta, Tanzania: A machine learning approach](https://blog)
 <!--- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
