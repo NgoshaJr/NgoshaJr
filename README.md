@@ -18,7 +18,7 @@ I am a data scientist at the [Tanzania Fisheries Research Institute](https://taf
 ### Research Projects
 
 - [Deep Learning Approaches for Seagrass Detection from Unnamed Arial Vehicles (UAVs) imagery](https://blog)
-- [Using Google Earth Engine (GEE) for the Classification of Mangrove Species from Sentinel-2a in the Rufiji Delta, Tanzania: A machine learning approach](https://blog)
+- [Using machine learning for mangrove classification from Sentinel-2 remotely sensed imagery: Google Earth Engine Approach](https://blog)
 <!--- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
 - **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
