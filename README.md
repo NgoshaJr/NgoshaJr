@@ -16,13 +16,6 @@ Furthermore, I am enthusiastic about harnessing the power of cloud computing tec
 
 In addition to my research endeavors, I am a staunch advocate for open science and reproducible research practices. Furthermore, I am actively involved in using TinyML approaches to develop ML models that can run on edge computing devices and embedded systems, expanding the reach and applicability of AI technology. You can find more information about my research on my personal website: [personal website](https://ngoshajr.github.io).
 
-
-
-
-
-
-
-
 ---
 
 ### Research Projects
